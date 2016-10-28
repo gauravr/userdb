@@ -4,6 +4,7 @@ setup(
     name='userdb',
     version='0.1.0',
     url="https://github.com/gauravr/userdb",
+    download_url='https://github.com/gauravr/userdb/tarball/master',
     classifiers=[
         'Programming Language :: Python',
         ],
